@@ -8,6 +8,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@condenast/quick-bus": "^0.2.0",
     "comlink": "^4.3.1",
     "core-js": "^3.6.5",
     "vue": "^2.6.11",
@@ -15,6 +16,7 @@
     "xstate": "^4.22.0"
   },
   "devDependencies": {
+    "@socheatsok78/quick-bus-types": "^0.1.0",
     "@socheatsok78/sharedworker-loader": "^2.0.12",
     "@vue/cli-plugin-babel": "~4.5.0",
     "@vue/cli-plugin-eslint": "~4.5.0",
