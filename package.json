@@ -10,7 +10,8 @@
   "dependencies": {
     "core-js": "^3.6.5",
     "vue": "^2.6.11",
-    "vuetify": "^2.4.0"
+    "vuetify": "^2.4.0",
+    "xstate": "^4.22.0"
   },
   "devDependencies": {
     "@socheatsok78/sharedworker-loader": "^2.0.12",

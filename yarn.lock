@@ -8543,6 +8543,11 @@ ws@^6.0.0, ws@^6.2.1:
   dependencies:
     async-limiter "~1.0.0"
 
+xstate@^4.22.0:
+  version "4.22.0"
+  resolved "https://registry.yarnpkg.com/xstate/-/xstate-4.22.0.tgz#5d6c2a762cb94c3170ee826d26194b7561d70aae"
+  integrity sha512-WBQS/XxmjCH6789fx5JXjct2pWA0ZI0a1Kx8PJMurzgytkJH3vC2+QganHWzK38vG9PyXHefyVG54UN5q6YVSw==
+
 xtend@^4.0.0, xtend@~4.0.1:
   version "4.0.2"
   resolved "https://registry.yarnpkg.com/xtend/-/xtend-4.0.2.tgz#bb72779f5fa465186b1f438f674fa347fdb5db54"
